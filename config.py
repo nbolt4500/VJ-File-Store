@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Drakku_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@nbolt
+# Ask Doubt on telegram @Dragonda
 
 
 import re
@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "22350063"))
 API_HASH = environ.get("API_HASH", "21306fd66006fd927c22bbe0af42943c")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'http://127.0.0.1:5501/_Dragon%20Img%20.ico')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7135258368').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "DrakuuFile_bot") # without @
 PORT = environ.get("PORT", "8080")
@@ -59,9 +59,9 @@ PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 VERIFY_MODE = bool(environ.get('VERIFY_MODE', False)) # Set True or False
 
 # If Verify Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "api.shareus.io") # shortlink domain without https://
-SHORTLINK_API = environ.get("SHORTLINK_API", "hRPS5vvZc0OGOEUQJMJzPiojoVK2") # shortlink api
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/How_To_Open_Linkl") # how to open link 
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "instantlinks.co") # shortlink domain without https://
+SHORTLINK_API = environ.get("SHORTLINK_API", "4947f351cb9ff859ecc9765cef2cab8e3377beed") # shortlink api
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://instantlinks.co/ref/Dragonda420") # how to open link 
 
 # Website Info:
 WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or False
@@ -80,10 +80,6 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
+URL = environ.get("URL", "parental-rodent-dragondada-d7359f68.koyeb.app/")
 
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-    
