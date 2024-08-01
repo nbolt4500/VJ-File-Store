@@ -80,6 +80,6 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "parental-rodent-dragondada-d7359f68.koyeb.app/")
+URL = environ.get("URL", "https://dragonda.onrender.com")
 
 
