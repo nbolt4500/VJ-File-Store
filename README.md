@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="(http://127.0.0.1:5501/_Dragon%20Img%20.ico)" alt="DB-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  Drakuu FILE STORE BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DB-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_DB!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+DB;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 ### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
